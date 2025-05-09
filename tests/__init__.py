@@ -1,0 +1,3 @@
+"""
+PhishSniper tests package.
+""" 

@@ -1,0 +1,3 @@
+"""
+PhishSniper data package.
+""" 
