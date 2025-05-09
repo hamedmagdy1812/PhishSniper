@@ -35,4 +35,4 @@ print(f"Risk Level: {result.risk_level}")
 
 ## License
 
-See the [LICENSE](LICENSE) file for details.
+PhishSniper is released under the [MIT License](LICENSE). See the LICENSE file for details.
